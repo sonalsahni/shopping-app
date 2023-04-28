@@ -25,8 +25,7 @@ function Header() {
         </Container>
     </Navbar>
   );
-}
-
+} 
 
 /*
 add logo */
